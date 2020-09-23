@@ -10,5 +10,9 @@ void suma(int a, int b){
     printf("%d + %d = %d",a+b);
 }
 
+void resta(int a , int b){
+    printf("%d - %d = %d",a-b);
+}
+
 
 #endif
